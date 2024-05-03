@@ -23,7 +23,7 @@
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
-    "@whiskeysockets/baileys": "^6.1.0",
+    "@whiskeysockets/baileys": "^6.7.1",
     "pino": "^8.8.0",
     "qrcode-terminal": "^0.12.0"
   },
